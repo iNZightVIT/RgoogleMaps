@@ -1,12 +1,12 @@
 Package: RgoogleMaps
 Type: Package
 Title: Overlays on Google map tiles in R
-Version: 1.2.0.7
-Date: 2015-01-20
+Version: 1.4.1-1
+Date: 2016-09-30
 Depends: R (>= 2.10)
 Imports: graphics, stats, utils, png, RJSONIO
 Suggests: PBSmapping, maptools, sp, rgdal, loa, RColorBrewer
-Author: Markus Loecher 
+Author: Markus Loecher
 Maintainer: Markus Loecher <markus.loecher@gmail.com>
 Description: This package serves two purposes: (i) Provide a
         comfortable R interface to query the Google server for static
