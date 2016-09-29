@@ -14,7 +14,3 @@ Description: This package serves two purposes: (i) Provide a
         plots within R. This requires proper coordinate scaling.
 License: GPL
 LazyLoad: yes
-Packaged: 2015-01-21 08:19:08 UTC; loecherm
-NeedsCompilation: no
-Repository: CRAN
-Date/Publication: 2015-01-21 17:14:49
